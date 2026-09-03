@@ -14,7 +14,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="CURE | AI Training Survey",
-    page_icon="🧭",
+    page_icon="cure_icon.png",
     layout="centered",
 )
 
