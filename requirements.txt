@@ -1,8 +1,1 @@
 streamlit>=1.32
-pandas>=2.0
-SQLAlchemy>=2.0
-
-# Uncomment if you switch DATABASE_URL to a Postgres connection string
-# (needed for persistent storage on Streamlit Community Cloud — see
-# DEPLOYMENT.md):
-# psycopg2-binary>=2.9
